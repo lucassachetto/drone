@@ -1,0 +1,1 @@
+How to compile gyroscope: `gcc -Wall -o gy91 gy91.c -lwiringPi -lm`
